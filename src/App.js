@@ -1,10 +1,11 @@
+import Map from './components/Map';
 
 function App() {
-  return (
-    <div>
-      <h1>Welcome to the app</h1>
-    </div>
-  );
+	return (
+		<div>
+			<Map />
+		</div>
+	);
 }
 
 export default App;
